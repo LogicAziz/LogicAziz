@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Abdulaziz (LogicAziz) 👋
 
-<!--
-**LogicAziz/LogicAziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 Generative AI & LLM Specialist | Legal-Tech Enthusiast
 
-Here are some ideas to get you started:
+I am a passionate developer focused on mastering the **LLM Lifecycle**, from advanced Prompt Engineering to Fine-Tuning specialized models. My current mission is bridging the gap between cutting-edge AI and the **Legal domain**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects & Labs:
+- **[LLM-Lifecycle-Practicum](https://github.com/LogicAziz/LLM-Lifecycle-Practicum):** Implementing Zero/Few-shot prompting and ROUGE evaluations on specialized datasets.
+- **[ChatGPT-Prompt-Engineering](https://github.com/LogicAziz/ChatGPT-Prompt-Engineering-Applications):** Professional implementations of prompt strategies for text summarization and data extraction.
+
+---
+
+### 🛠️ Tech Stack:
+- **AI/ML Tools:** PyTorch, Hugging Face Transformers, Datasets, Evaluate.
+- **LLM Techniques:** Prompt Engineering, Parameter-Efficient Fine-Tuning (PEFT), LoRA.
+- **Programming:** Python.
+
+---
+
+### 📊 My GitHub Stats:
+![LogicAziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LogicAziz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LogicAziz&layout=compact&theme=radical)
+
+---
+
+### 🤝 Let's Connect:
+- **Email:** [abdalazezesmael57@gmail.com]
+
+---
+*"Exploring the frontiers of AI to revolutionize legal documentation."*
