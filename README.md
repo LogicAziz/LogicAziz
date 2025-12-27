@@ -30,3 +30,8 @@ I am a passionate developer focused on mastering the **LLM Lifecycle**, from adv
 
 ---
 *"Exploring the frontiers of AI to revolutionize legal documentation."*
+
+## 📚 References & Resources
+- **Course:** [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms) by DeepLearning.AI & AWS.
+- **Course:** [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) by DeepLearning.AI & OpenAI.
+- **Documentation:** [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/index) for model implementation and inference.
